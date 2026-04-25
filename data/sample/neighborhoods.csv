@@ -1,0 +1,13 @@
+neighborhood_id,nta_code,name,borough,city,state,center_lat,center_lng
+1,QN0103,Astoria,Queens,New York,NY,40.772,-73.93
+2,QN0202,Sunnyside,Queens,New York,NY,40.743,-73.92
+3,MN1101,Harlem,Manhattan,New York,NY,40.8116,-73.9465
+4,MN1201,Washington Heights,Manhattan,New York,NY,40.8417,-73.9393
+5,BK0902,Williamsburg,Brooklyn,New York,NY,40.7081,-73.9571
+6,BK0701,Bushwick,Brooklyn,New York,NY,40.6944,-73.9213
+7,BK1101,Park Slope,Brooklyn,New York,NY,40.671,-73.9814
+8,NJJC01,Jersey City Heights,Hudson,Jersey City,NJ,40.747,-74.048
+9,NJJC02,Journal Square,Hudson,Jersey City,NJ,40.732,-74.063
+10,NJHK01,Hoboken,Hudson,Hoboken,NJ,40.744,-74.032
+11,BX0101,Mott Haven,Bronx,New York,NY,40.8087,-73.9234
+12,QN2201,Flushing,Queens,New York,NY,40.7654,-73.8318
